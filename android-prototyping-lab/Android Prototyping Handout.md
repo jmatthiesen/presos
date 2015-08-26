@@ -56,7 +56,7 @@ Now let's look at a project setup with Material design.
       I'm a Footer in a Card!
     </div>
   </div>
-        ````
+ ````
 
 ### Things to note
 - You're looking at a "kitchen sink app using the Ionic framework with a Material Design library applied
