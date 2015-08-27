@@ -1,4 +1,6 @@
 # Prototyping Android Apps quickly, using Cordova
+Presented by Jordan Matthiesen (twitter: @JMatthiesen)
+Online: https://github.com/jmatthiesen/presos/blob/master/android-prototyping-lab/Android%20Prototyping%20Handout.md
 
 ## Pre-Requisites
 - The Android SDK and an Android Emulator (or use a device)
