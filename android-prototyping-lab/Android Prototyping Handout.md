@@ -106,7 +106,7 @@ Building a full fledged app prototype
 Using a plugin and native device capabilities. Let's add a qrCode scanner.
 
 1. In your browser, open http://plugins.cordova.io/npm/index.html and search for "barcode"
-1. Take a quick look at the docs for the phonegap-plugin-barcodeScanner, copy and paste the full example for using the plugin
+1. Take a quick look at the docs for the phonegap-plugin-barcodescanner, copy and paste the full example for using the plugin
 1. Close any `taco run` sessions
 1. Run `taco plugin add phonegap-plugin-barcodescanner` # Adds a the barcode plugin that provides QR Scan functionality
 1. Open `scanQr.js`
