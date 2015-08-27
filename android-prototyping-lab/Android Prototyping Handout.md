@@ -17,7 +17,7 @@
 - To follow along: `git clone http://github.com/jmatthiesen/CordovaAndroidProto-Tutorial` 
 
 ## Step 1
-This step creates a simple Cordova project targeting Android.
+This step creates a simple Cordova project targeting Android. From a terminal window, run:
 
 1. `taco create sampleApp` # Create a simple Cordova app
 1. `cd sampleApp` # From now on, work in the app directory
@@ -30,7 +30,7 @@ To see the end result, you can run `git checkout Step1` on the sample repo.
 ### Things to note
 - Look into the platforms folder for the familiar AndroidManifest.xml
 - Look at the MainActivity.java and CordovaActivity.java to see how webView is initialized
-- Look at Config Parser to see how config.xml is used to define the URL that the Webview displays
+- Look at ConfigParser to see how config.xml is used to define the URL that the Webview displays
 
 ##Step 2
 Now let's look at a project setup with Material design.
