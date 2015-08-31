@@ -135,11 +135,3 @@ Using a plugin and native device capabilities. Let's add a qrCode scanner.
 ### Things to note
 - Plugins enable a Cordova app to talk to native device capabilities
 - If you use the full version of the demo app, you can save contact information with your own QR code and scan that QR code using another version of the app
-
-## Step 5
-Deploying the app privately, to get end user feedback. For this we'll use the HockeyApp service.
-
-1. Go to http://www.hockeyapp.net
-1. Click on Sign Up to create a new (free) account
-1. A confirmation email will come to you, follow the directions in that email
-1. Once registration is confirmed, follow instructions on the site to install the HockeyApp app on your device.
